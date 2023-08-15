@@ -27,11 +27,11 @@ Welcome to the WhatsApp YouTube Downloader Bot! This bot allows you to download 
 
 Prerequisites
 
-- Node.js (Version X.X.X)
-- NPM (Version X.X.X)
-- venom-bot (Version X.X.X)
-- ytdl-core (Version X.X.X)
-- fluent-ffmpeg (Version X.X.X)
+- Node.js 
+- NPM 
+- venom-bot 
+- ytdl-core 
+- fluent-ffmpeg
 Installation
 
 1. Clone the repository:
