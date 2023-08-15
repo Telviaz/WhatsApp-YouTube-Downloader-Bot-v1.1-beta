@@ -32,8 +32,7 @@ Prerequisites
 - venom-bot (Version X.X.X)
 - ytdl-core (Version X.X.X)
 - fluent-ffmpeg (Version X.X.X)
-
-### Installation
+Installation
 
 1. Clone the repository:
 
@@ -42,7 +41,7 @@ Prerequisites
    cd whatsapp-youtube-downloader
 
 
-# # installation using terminal 
+  installation using terminal 
 
 1. Install Dependencies:
 
@@ -80,28 +79,28 @@ Run the bot:
 
 2. Scan the QR code using your WhatsApp mobile app to link the bot to your account.
 
-##  Commands
+  Commands
 
 */start: Start the bot and get instructions.
 */help: Display available commands and usage instructions.
 */rate: Rate the bot (1-5).
   
-  # # # Downloading Content
+   Downloading Content
   
 1. Send a YouTube link to the bot.
 2. Choose audio or video download.
 3. Follow the prompts to download the selected content.
-
-# # Rating the Bot
+   
+ Rating the Bot
 . Use /rate [1-5] to rate the bot's performance.
 
-# # Author
+  Author
 
 . TELVIN TEUM
 Codded by: TELVIN TEUM
 From: Kenya
 
-# # License
+ License
 
 This project is licensed under the MIT License.
   
